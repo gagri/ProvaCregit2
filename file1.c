@@ -85,7 +85,7 @@ control|)
 block|{
 name|printf
 argument_list|(
-literal|"For student%d\nEnter name: "
+literal|"for student%d\nEnter name: "
 argument_list|,
 name|i
 operator|+
@@ -116,7 +116,7 @@ name|fprintf
 argument_list|(
 name|fptr
 argument_list|,
-literal|"\nName: %s \nMarks=%d \n"
+literal|"\n name: %s \n marks=%d \n"
 argument_list|,
 name|name
 argument_list|,
